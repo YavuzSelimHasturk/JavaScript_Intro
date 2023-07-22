@@ -13,6 +13,7 @@ function merhaba2 (name,age){
     console.log(`Isim: ${name} Yas: ${age}`);
 }
 
+
 merhaba2("Yavuz",32);
 
 merhaba2();     // deger gondermezsek undefined yaziyor (if kismini sonra ekledik)
