@@ -67,7 +67,8 @@ if(process==="1"){
 
 const number =100;
 if(number===100){
-    console.log("Sayi 100'e esit");
+    console.log("Sayi 100'e esit") ;
+    
 }else{
     console.log("Sayi 100'e esit degil");
 }

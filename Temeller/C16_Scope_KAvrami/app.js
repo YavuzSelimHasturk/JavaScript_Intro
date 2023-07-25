@@ -17,7 +17,7 @@ const value3=30;
 
 if(true){
     var value1=40;
-    let value2 =50;
+    let value2 =45;
     const value3 =60;
 
     console.log(value1,value2,value3);
